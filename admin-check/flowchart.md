@@ -1,4 +1,5 @@
-﻿flowchart TD
+```mermaid
+ flowchart TD
     A[批次檔啟動] --> B{第一參數為 -elevated?}
     B -- 是 --> C[移除 -elevated，進入提權後狀態]
     B -- 否 --> D[執行 fltmc 檢查是否管理員]
@@ -16,3 +17,4 @@
     K --> exit
     G --> L[批次主邏輯]
     L --> exit
+```
