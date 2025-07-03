@@ -84,4 +84,4 @@
 ## 七、腳本代碼  
 
 腳本的完整實現可查看倉庫內的範例文件：  
-[bat檔判斷系統管理員及提權正確操作指令.txt](https://github.com/你的用戶名/2025-batch-file-q_a/blob/main/admin-check/bat檔判斷系統管理員及提權正確操作指令.txt)  
+[bat檔判斷系統管理員及提權正確操作指令.txt](https://github.com/codepyfan/2025-batch-file-q_a/blob/main/admin-check/bat檔判斷系統管理員及提權正確操作指令.txt)  
