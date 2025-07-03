@@ -1,0 +1,35 @@
+# Windows 批次檔 (bat) 專案建議忽略項
+
+# 視窗系統檔案
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# 編輯器/IDE 設定
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 壓縮檔案
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+
+# 備份與暫存檔
+*.bak
+*.tmp
+*.swp
+*.orig
+
+# 測試/執行產生檔案
+*.log
+
+# 其他快取/暫存
+.cache/
+
+# 如有其他專案相關需忽略的檔案請在此補充
